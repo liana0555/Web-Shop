@@ -3,7 +3,7 @@
 **Web-Shop** is a project where I developed the interface of an online store, focusing on clean architecture, modern design, and full responsiveness.  
 The goal was not just to build a static page, but to demonstrate how to structure a scalable frontend architecture where every element is a meaningful component.
 
-The project is built with **Next.js**, **TypeScript**, and **Tailwind CSS** — a tech stack that enables fast, flexible, and well-structured interface development.
+The project is built with **Next.js**, **TypeScript**, and **Tailwind CSS** - a tech stack that enables fast, flexible, and well-structured interface development.
 
 ## Key Features
 
@@ -29,10 +29,12 @@ The project is built with **Next.js**, **TypeScript**, and **Tailwind CSS** — 
 -**Install and use:**
 Icon- https://react-icons.github.io/react-icons/
 https://www.npmjs.com/package/react-slick    (npm install react-slick --save    AND  npm install slick-carousel )
+
 -**Help**
 Tailwind CSS - will help with writing and seeing styles CSS
 
 When we typing Tailwind CSS parameters in the className for our help we use this - https://tailwindcss.com/docs/installation/using-vite
+
 -**Good sites for working:**
 Logotype - https://favicon.io/favicon-generator/
 
