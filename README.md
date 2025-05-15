@@ -23,7 +23,7 @@ The project is built with **Next.js**, **TypeScript**, and **Tailwind CSS** - a 
 - **Vercel** — deployment platform (optional)
 
 ## Photos
-1.png
+/1.png
 
 ## My uses/Recommendations for creating
 -**Install and use:**
