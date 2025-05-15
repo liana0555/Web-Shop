@@ -21,9 +21,7 @@ The project is built with **Next.js**, **TypeScript**, and **Tailwind CSS** - a 
 - **TypeScript** — typed superset of JavaScript
 - **Tailwind CSS** — utility-first CSS framework
 - **Vercel** — deployment platform (optional)
-
-## Photos
-/1.png
+  
 
 ## My uses/Recommendations for creating
 -**Install and use:**
